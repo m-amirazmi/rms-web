@@ -1,0 +1,18 @@
+{
+	"app": {
+		"name": "Baiki RMS",
+		"description": "Repair Management System"
+	},
+	"sidebar": {
+		"create_repair_job": "Create New Repair Ticket",
+		"platform": "Platform",
+		"items": {
+			"dashboard": "Dashboard",
+			"repairs": "Repairs",
+			"repairs_create": "Create Repair Ticket",
+			"customers": "Customers",
+			"inventory": "Inventory",
+			"settings": "Settings"
+		}
+	}
+}

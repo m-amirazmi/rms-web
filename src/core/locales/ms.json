@@ -1,0 +1,18 @@
+{
+	"app": {
+		"name": "Baiki RMS",
+		"description": "Sistem Pengurusan Baiki"
+	},
+	"sidebar": {
+		"create_repair_job": "Buat Tiket Baiki Baru",
+		"platform": "Platform",
+		"items": {
+			"dashboard": "Utama",
+			"repairs": "Baiki",
+			"repairs_create": "Buat Tiket Baiki",
+			"customers": "Pelanggan",
+			"inventory": "Inventori",
+			"settings": "Tetapan"
+		}
+	}
+}
